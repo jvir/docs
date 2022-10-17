@@ -6,7 +6,7 @@ Try OpenNebula Hosted Front-end
 
 This guide will walk you through the steps to request, setup and manage an OpenNebula Hosted Environment, to provision new resources and to create an environment for your cloud and edge computing needs.
 
-The OpenNebula Hosted service allows users to try OpenNebula on **KVM** for the execution of virtual machines and Kubernetes clusters.
+The OpenNebula Hosted service allows users to try OpenNebula on **KVM** for the execution of virtual machines and Kubernetes clusters. The service is available for companies interested in the evaluation of the Enterprise Edition of OpenNebula and the enterpise support.
 
 OpenNebula Hosted service provides two tools to create and manage resources and clusters:
 
