@@ -126,7 +126,7 @@ In this wizard you first need to **configure the network**. If you are using DHC
 
 If you are using a static network configuration, answer yes and you will need to use a ncurses interface to:
 
-- "Edit a connection"
+- "Edit a connection" 
 - Select "System eth0"
 - Change IPv4 CONFIGURATION from <Automatic> to <Manual> and select "Show"
 - Input the desired IP address/24 in Addresses
